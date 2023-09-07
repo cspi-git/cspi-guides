@@ -9,7 +9,7 @@ git clone https://github.com/cspi-git/cspi-guides
 
 NpmJS:
 ```
-npm i express compression fs
+npm i express compression path
 ```
 
 ## Usage
