@@ -1,4 +1,4 @@
-# CSPI Guides
+# CSPI Guides (Merged to CSPI Resources)
 Collection of guides from CSPI (Website).
 
 ## Installation
